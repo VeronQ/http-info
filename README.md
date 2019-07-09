@@ -3,7 +3,7 @@
 > HTTP Status Codes Utility
 
 [![Build Status](https://travis-ci.com/VeronQ/http-info.svg?token=AEFpxy9csD94RqFQtSSp&branch=master)](https://travis-ci.com/VeronQ/http-info)
-[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://npmjs.org/package/http-info "View this project on npm")
+[![npm version](https://badge.fury.io/js/http-info.svg)](https://npmjs.org/package/http-info "View this project on npm")
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/VeronQ/http-info/blob/master/LICENSE)
 
 A set of utility that allow to match, convert and list HTTP status codes. 
