@@ -1,7 +1,7 @@
 {
 	"name": "http-info",
-	"version": "1.0.0",
-	"description": "Get some information from an HTTP status code",
+	"version": "1.0.1",
+	"description": "HTTP Status Codes Utility",
 	"main": "dist/index.js",
 	"type": "dist/index.d.ts",
 	"repository": {
