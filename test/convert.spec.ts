@@ -13,6 +13,7 @@ describe('Convert', () => {
 	});
 	it('should throw an error in not type number', () => {
 		expect(() => {
+			// @ts-ignore
 			convert([])
 		}).toThrowError();
 	});
