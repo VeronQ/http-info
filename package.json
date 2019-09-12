@@ -1,6 +1,6 @@
 {
 	"name": "http-info",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"description": "HTTP Status Codes Utility",
 	"main": "dist/index.js",
 	"type": "dist/index.d.ts",
