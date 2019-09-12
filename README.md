@@ -101,4 +101,4 @@ httpInfo.list.serverError // ==> [500, 501, 502, ...]
 
 ## License
 
-MIT
+[MIT](https://github.com/VeronQ/http-info/blob/master/LICENSE)
